@@ -40,25 +40,6 @@ Matplotlib & Plotly (for visualization)
 
 Pandas (for data manipulation)
 
-📂 Kurulum ve Çalıştırma | Installation and Running
-Bu repoyu klonlayın | Clone the repository:
-
-bash
-Kopyala
-Düzenle
-git clone https://github.com/kullaniciadi/ai-family-tree.git
-Gerekli kütüphaneleri yükleyin | Install required libraries:
-
-bash
-Kopyala
-Düzenle
-pip install -r requirements.txt
-Notebook'u çalıştırın | Run the Jupyter notebook:
-
-bash
-Kopyala
-Düzenle
-jupyter notebook Yapay_zeka_soy_agaci.ipynb
 🌟 Öne Çıkanlar | Highlights
 Interaktif ve dinamik soy ağacı grafiği
 
